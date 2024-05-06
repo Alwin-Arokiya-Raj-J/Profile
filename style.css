@@ -11,6 +11,11 @@
 .backc{
     background-color: rgba(170, 172, 174, 0.24);
 }
+.cv{
+    border: none;
+    text-decoration: none;
+    color: black;
+}
 .homediv{    
     height: 100vh;
     width: 100%;
