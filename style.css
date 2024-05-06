@@ -16,6 +16,13 @@
     text-decoration: none;
     color: black;
 }
+@media (max-width: 576px) { 
+    .cv{
+   
+        text-decoration: none;
+        color: black;
+}
+}
 
 .homediv{    
     height: 100vh;
